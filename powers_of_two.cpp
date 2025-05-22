@@ -1,7 +1,5 @@
 #include <iostream>
 #include <cassert>
-#include <vector>
-#include <algorithm>
 
 // Function to check if a number is a power of two
 bool isPowerOfTwo(unsigned int x) {
