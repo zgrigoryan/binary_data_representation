@@ -1,4 +1,4 @@
-// swap_bench.cpp
+// xor_vs_regular_swap.cpp
 // -------------------------------------------------------------
 // Benchmark temp-var swap vs. XOR swap and log results to CSV.
 // Build:  g++ -std=c++17 -O3 -march=native xor_vs_regular_swap.cpp -o swap_bench
